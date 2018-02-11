@@ -1,0 +1,266 @@
+1
+14
+Red 14
+End of Round
+2
+30
+Red 30
+End of Round
+3
+25
+Red 20
+Blue 5
+End of Round
+4
+45
+Red 30
+Blue 15
+End of Round
+5
+25
+Red 5
+Blue 20
+End of Round
+6
+34
+Red 15
+Blue 15
+Green 4
+End of Round
+7
+50
+Red 20
+Blue 25
+Green 5
+End of Round
+8
+47
+Red 10
+Blue 20
+Green 17
+End of Round
+9
+37
+Red 10
+Blue 12
+Green 15
+End of Round
+10
+100
+Blue 100
+End of Round
+11
+29
+Red 5
+Blue 10
+Green 12
+Yellow 2
+End of Round
+12
+30
+Blue 15
+Green 10
+Yellow 5
+End of Round
+13
+55
+Red 20
+Green 25
+Yellow 10
+End of Round
+14
+60
+Red 15
+Blue 15
+Green 15
+Yellow 15
+End of Round
+15
+48
+Red 20
+Green 15
+Yellow 10
+Pink 3
+End of Round
+16
+38
+Green 20
+Yellow 13
+Pink 5
+End of Round
+17
+48
+Green 15
+Yellow 28
+Pink 5
+End of Round
+18
+80
+Green 80
+End of Round
+19
+29
+Green 5
+Yellow 10
+Pink 14
+End of Round
+20
+8
+Black 8
+End of Round
+21
+16
+Pink 16
+End of Round
+22
+9
+White 9
+End of Round
+23
+11
+Black 6
+White 5
+End of Round
+24
+1
+Camo 1
+End of Round
+25
+6
+Zebra 6
+End of Round
+26
+27
+Yellow 10
+Pink 10
+Black 4
+White 3
+End of Round
+27
+100
+Yellow 100
+End of Round
+28
+10
+Zebra 3
+Lead 7
+End of Round
+29
+70
+Pink 70
+End of Round
+30
+10
+Lead 10
+End of Round
+31
+18
+Zebra 18
+End of Round
+32
+63
+Black 25
+White 30
+Lead 8
+End of Round
+33
+50
+Camo 50
+End of Round
+34
+14
+Zebra 14
+End of Round
+35
+68
+Pink 35
+White 25
+Rainbow 8
+End of Round
+36
+90
+Pink 90
+End of Round
+37
+70
+Black 20
+White 20
+Zebra 15
+Lead 15
+End of Round
+38
+68
+White 20
+Zebra 16
+Lead 20
+Rainbow 12
+End of Round
+39
+82
+Black 10
+White 10
+Zebra 20
+Lead 20
+Rainbow 22
+End of Round
+40
+34
+Red 20
+Rainbow 10
+Ceramic 4
+End of Round
+41
+160
+Black 80
+White 80
+End of Round
+42
+70
+Lead 40
+Rainbow 30
+End of Round
+43
+20
+Rainbow 10
+Ceramic 10
+End of Round
+44
+75
+White 30
+Zebra 40
+Ceramic 5
+End of Round
+45
+233
+Pink 200
+Lead 8
+Rainbow 25
+End of Round
+46
+5
+Ceramic 5
+End of Round
+47
+90
+Camo 70
+Ceramic 20
+End of Round
+48
+170
+Camo 120
+Rainbow 50
+End of Round
+49
+80
+Camo 10
+Zebra 20
+Rainbow 32
+Ceramic 18
+End of Round
+50
+102
+Camo 10
+Zebra 20
+Rainbow 32
+Ceramic 40
+End of Round
